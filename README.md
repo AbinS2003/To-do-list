@@ -16,6 +16,7 @@ A simple To-Do List web application built with HTML, CSS, and JavaScript. It all
 - **JavaScript**: Interactivity, including adding, completing, and removing tasks, as well as saving data in local storage.
 
 ## Screenshots
-![To-Do List Screenshot](assets/todo-list.png)
+![To-Do List Screenshot](A
+ssets/todo-list.png)
 
 
