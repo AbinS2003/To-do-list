@@ -18,4 +18,8 @@ A simple To-Do List web application built with HTML, CSS, and JavaScript. It all
 ## Screenshots
 ![To-Do List Screenshot](Assets/todo-list.png)
 
+## Live Demo
+Check out the live version [here](https://abins2003.github.io/To-do-list/).
+
+
 
